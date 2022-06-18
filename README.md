@@ -26,7 +26,7 @@ My name is Sumer Punjabi. I currently live in Ontario, Canada.
   <img src ="./images/java.svg" alt="Java logo" width="6%" title='Java'/> 
 </div>
 
-# Tools
+# Tools & Frameworks
 <div>
   <img src ="./images/figma.svg" alt="Figma logo" width="3.5%" title='Figma'/>
   <img src ="./images/vscode.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
