@@ -1,4 +1,4 @@
-# Hello 👋 !
+# Hello 👋
 
 My name is Sumer Punjabi. I currently live in Ontario, Canada.
 
@@ -7,12 +7,14 @@ My name is Sumer Punjabi. I currently live in Ontario, Canada.
 - Visit my socials below!
 
 <div>
-<a href="https://www.linkedin.com/in/sumer-punjabi-7783a0185/" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="20%"></a>
+<a href="https://www.linkedin.com/in/sumer-punjabi-7783a0185/" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="23%"></a>
 <a href="https://twitter.com/sumerpunjabi" target="_blank"><img src='./images/twitter.png' alt='Twitter' width="8%" title='@sumerpunjabi'></a>
-<a href="https://www.instagram.com/sumerpunjabi" target="_blank"><img src='./images/instagram.png' alt='Instagram' width="8%"></a>
+<a href="https://www.instagram.com/sumerpunjabi" target="_blank"><img src='./images/instagram.png' alt='Instagram' width="7%"></a>
 </div>
  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumerpunjabi&layout)]
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumerpunjabi&layout&theme=dark)]
 
 # Languages
 <div>
